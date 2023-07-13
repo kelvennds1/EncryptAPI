@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncryptAPI", "EncryptAPI\EncryptAPI.csproj", "{FF6A0A18-8009-42F1-B626-4A388A3F3F83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5A85298-ED87-4260-B2DB-8E1018024B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinqia4Devs.Utils.Cryptography", "Sinqia4Devs.Utils.Cryptography\Sinqia4Devs.Utils.Cryptography.csproj", "{1A56373B-97EB-4E98-BBCD-46F49E4B12DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF6A0A18-8009-42F1-B626-4A388A3F3F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6A0A18-8009-42F1-B626-4A388A3F3F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6A0A18-8009-42F1-B626-4A388A3F3F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6A0A18-8009-42F1-B626-4A388A3F3F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A56373B-97EB-4E98-BBCD-46F49E4B12DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A56373B-97EB-4E98-BBCD-46F49E4B12DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A56373B-97EB-4E98-BBCD-46F49E4B12DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A56373B-97EB-4E98-BBCD-46F49E4B12DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E192D8C-9CF7-4E30-9AB3-226E9C598D36}
+	EndGlobalSection
+EndGlobal
